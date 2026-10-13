@@ -69,32 +69,6 @@
 
 ---
 
-## 📁 Mis Repositorios Destacados
-
-<br>
-<p align="center">
-  <!-- Reemplaza "Nombre-De-Tu-Repo-1" con el nombre exacto de tu repositorio en GitHub -->
-  <a href="https://github.com/Sebastianeytor/Nombre-De-Tu-Repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianeytor&repo=Nombre-De-Tu-Repo-1&theme=tokyonight&locale=es" alt="GitHub Repo 1" />
-  </a>
-  <!-- Reemplaza "Nombre-De-Tu-Repo-2" con el nombre exacto de tu repositorio en GitHub -->
-  <a href="https://github.com/Sebastianeytor/Nombre-De-Tu-Repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianeytor&repo=Nombre-De-Tu-Repo-2&theme=tokyonight&locale=es" alt="GitHub Repo 2" />
-  </a>
-</p>
-<p align="center">
-  <!-- Reemplaza "Nombre-De-Tu-Repo-3" con el nombre exacto de tu repositorio en GitHub -->
-  <a href="https://github.com/Sebastianeytor/Nombre-De-Tu-Repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianeytor&repo=Nombre-De-Tu-Repo-3&theme=tokyonight&locale=es" alt="GitHub Repo 3" />
-  </a>
-  <!-- Reemplaza "Nombre-De-Tu-Repo-4" con el nombre exacto de tu repositorio en GitHub -->
-  <a href="https://github.com/Sebastianeytor/Nombre-De-Tu-Repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianeytor&repo=Nombre-De-Tu-Repo-4&theme=tokyonight&locale=es" alt="GitHub Repo 4" />
-  </a>
-</p>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <details><summary><h3>💻 Perfil y Actividad</h3></summary>
